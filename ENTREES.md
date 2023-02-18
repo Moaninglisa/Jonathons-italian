@@ -2,7 +2,7 @@
 
 | Price    | Name                      | Description                                                                                             |
 | -------- | -------------------------| --------------------------------------------------------------------------------------------------------|
-| $18.99   | Spaghetti Carbonara      | A classic pasta dish made with spaghetti, eggs, pancetta, parmesan cheese, and black pepper.            |
+| $1.99   | Spaghetti Carbonara      | A classic pasta dish made with spaghetti, eggs, pancetta, parmesan cheese, and black pepper.            |
 | $19.99   | Chicken Parmesan         | Breaded and fried chicken cutlets topped with tomato sauce and melted mozzarella cheese, served with a side of spaghetti. |
 | $18.99   | Eggplant Parmesan        | Sliced eggplant breaded and fried, layered with tomato sauce and melted mozzarella cheese, served with a side of spaghetti. |
 | $20.99   | Linguine alle Vongole    | Linguine pasta cooked with fresh clams, garlic, white wine, and parsley.                                 |
